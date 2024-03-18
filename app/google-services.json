@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1011772212283",
+    "project_id": "archnotes-5e567",
+    "storage_bucket": "archnotes-5e567.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011772212283:android:8cf0cd5297a0d84394881e",
+        "android_client_info": {
+          "package_name": "com.example.archnotes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFBq8UNWThG1a38o81SKQ_8M1qET4C7L4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
